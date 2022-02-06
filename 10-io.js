@@ -7,3 +7,6 @@ console.log(first, second);
 writeFileSync('./content/results-sync.txt', 
 `Here is the results ${first}, ${second}`,
 {flag: 'a'}) //flag a will add on to the end rather than overwrite
+console.log('done first task');
+console.log('onto the next');
+//this approach can take a long time 
