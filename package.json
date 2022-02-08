@@ -4,6 +4,7 @@
   "description": "My attempt at learning node x)",
   "main": "0-runnable.js",
   "scripts": {
+    "start": "node 0-runnable.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
